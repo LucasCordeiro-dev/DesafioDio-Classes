@@ -1,8 +1,6 @@
 <h1 align="center">DesafioDio-Classes</h1> 
 
 <p>
-  
-# 3️⃣ Escrevendo as classes de um Jogo
 
 **O Que deve ser utilizado**
 
