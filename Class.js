@@ -37,7 +37,7 @@ class Hero{
     primeiroGuerreiro.escrever()    
     primeiroMago.escrever()
     primeiroNinja.escrever()
-    primeiroMago.escrever()
+    primeiroMonge.escrever()
 
   
 
